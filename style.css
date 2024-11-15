@@ -110,6 +110,19 @@ ul{
     justify-content: space-around;
 }
 
+.footer-section{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 52px;
+    color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;
+}
+
 .header{
     display: flex;
     justify-content:space-around;
